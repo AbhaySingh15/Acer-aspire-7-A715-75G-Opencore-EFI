@@ -46,7 +46,7 @@
   Generate your own smbios before using it.
 
 ## Credits
-- [acidanthera]([acidanthera](https://github.com/acidanthera) for lilu, opencore, applealc, cpufriend etc...
+- [acidanthera](https://github.com/acidanthera) for lilu, opencore, applealc, cpufriend etc...
 - [OpenIntelWireless](https://github.com/OpenIntelWireless ) for wifi and bluetooth
 - [alexandred](https://github.com/alexandred) for voodooI2C
 - [r/Hackintosh](https://www.reddit.com/r/hackintosh/) 
