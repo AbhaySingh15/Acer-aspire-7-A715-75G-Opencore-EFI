@@ -2,8 +2,9 @@
 
 **OpenCore Version: [0.7.0 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.0)**
 
-**macOS Version: 11.4 big sur**
-![alt text](https://github.com/AbhaySingh15/Acer-aspire-7-A715-75G-Opencore-EFI/blob/main/Screenshots/Big_sur.png?raw=true)
+ MacOS Version: 11.4 big sur
+ :-------------------------:
+ ![alt text](https://github.com/AbhaySingh15/Acer-aspire-7-A715-75G-Opencore-EFI/blob/main/Screenshots/Big_sur.png?raw=true)
 
 ## System Information
 
