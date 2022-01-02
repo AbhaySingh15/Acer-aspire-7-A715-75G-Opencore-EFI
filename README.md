@@ -39,10 +39,10 @@
 - [x] Bluetooth
 - [x] Speakers 
 - [x] Power management
+- [x] Inbuilt microphone
 
 ## Not Working 
 - Discrete nvidia gtx 1650 gpu
-- Inbuilt microphone 
 
 ## Note
   Generate your own smbios before using it.
