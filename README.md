@@ -12,7 +12,7 @@
 | ------------------- | ------------------------------------------- |
 | Computer model      | Acer Aspire 7 A715-75G-50SA                |
 | Processor           | Intel Core i5-9300H ~2.4ghz turbo 4.1ghz   |
-| Memory              | 8gb ddr4 2667mhz                           |
+| Memory              | 16gb ddr4 2667mhz                           |
 | Hard Disk           | 512gb SK Hynix BC501 HFM512GDJTNG-8310A    |
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Monitor             | FHD 1920x1080 (15.6 inch)                  |
