@@ -46,12 +46,16 @@
 
 ## Note
   Generate your own smbios before using it.
+  
+  Go to this link (https://github.com/hackintosh-stuff/ComboJack), clone the rep, navigate to combojack_installer folder and run install.sh script (I've   already added verbstub kext in the kexts folder so no need to add it just run the script)
+  
 
 ## Credits
 - [acidanthera](https://github.com/acidanthera) for lilu, opencore, applealc, cpufriend etc...
 - [OpenIntelWireless](https://github.com/OpenIntelWireless ) for wifi and bluetooth
 - [alexandred](https://github.com/alexandred) for voodooI2C
 - [r/Hackintosh](https://www.reddit.com/r/hackintosh/) 
+- https://github.com/hackintosh-stuff/ComboJack
 - and so many others...
 
  
