@@ -1,6 +1,6 @@
 # Acer-Aspire-7-A715-75G-Hackintosh
 
-**OpenCore Version: [0.7.6 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.0)**
+**OpenCore Version: [0.7.6 Offical](https://github.com/acidanthera/OpenCorePkg)**
 
  MacOS Version: 11.6.2 big sur
  :-------------------------:
